@@ -1,0 +1,75 @@
+<html>
+<head>
+ <title>HTML Tags</title>
+</head>
+<body>
+<h2>HTML Tag Demonstration</h2>
+<h3> Link</h3>
+<a href="https://www.google.com">Google</a>
+<h3>Audio</h3>
+<audio controls>
+<source src="C:\Users\TEMP.KCW.024\Downloads\sample-6s.mp3" type="audio/mpeg">
+link
+</audio>
+<h3> Video</h3>
+<video>
+<source src="C:\Users\TEMP.KCW.024\Downloads\sample-5s-360p.mp4" type="video/mp4">
+link
+</video>
+<h3>Ordered List</h3>
+<ol>
+<li>Apple</li>
+<li>Banana</li>
+<li>Orange</li>
+</ol>
+<h3>Unordered List</h3>
+<ul>
+<li>Cricket</li>
+<li>Football</li>
+<li>Hockey</li>
+</ul>
+<br><br><br>
+<center>
+<img src="C:\xampp\htdocs\pexels-inspiredimages-132474.jpg"></img>
+</center>
+<br>
+<br>
+<br>
+<p>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</p>
+<br>
+<br>
+<br>
+<b>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</b>
+<br>
+<br>
+<br>
+
+<br>
+<strong>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</strong>
+<br><br>
+<br>
+<br>
+<i>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</i>
+<br>
+<br>
+<br>
+<br>
+<em>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</em>
+<br>
+<br>
+<br>
+<br>
+<u>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.</u>
+<br>
+<br>
+<br>
+<br>
+<mark>Some of the most important flowers include the rose (symbol of love), lotus (purity and enlightenment), cherry blossom (transience and renewal), sunflower (loyalty and happiness), and tulip (perfect love). These flowers are widely recognized for their cultural, historical, and symbolic significance across the world.
+</mark>
+</body>
+</html>
